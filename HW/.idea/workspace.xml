@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c69e7fe8-b4f5-4bff-a157-49494795938d" name="Changes" comment="lab2">
-      <change afterPath="$PROJECT_DIR$/.idea/file.template.settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/fileTemplates/CodingProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/JAX-RS Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/JAX-RS Resource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/Jsp File.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/Jspx File.jspx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/Tag Library Descriptor.tld" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/CodingProblem2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Lab3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c69e7fe8-b4f5-4bff-a157-49494795938d" name="Changes" comment="lab3">
+      <change afterPath="$PROJECT_DIR$/../src/src/Lab4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingProblem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/src/CodingProblem1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/src/Lab2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +18,7 @@
       <list>
         <option value="HTML File" />
         <option value="CodingProblem" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -66,6 +54,7 @@
     "Application.CodingProblem2.executor": "Run",
     "Application.Lab2.executor": "Run",
     "Application.Lab3.executor": "Run",
+    "Application.Lab4.executor": "Run",
     "Application.Unnamed.executor": "Run",
     "Application.java.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
@@ -133,7 +122,8 @@
       <workItem from="1758301391444" duration="515000" />
       <workItem from="1758302070898" duration="155000" />
       <workItem from="1758302249216" duration="2310000" />
-      <workItem from="1758307987171" duration="1596000" />
+      <workItem from="1758307987171" duration="2771000" />
+      <workItem from="1758912098402" duration="1752000" />
     </task>
     <task id="LOCAL-00001" summary="Create .gitignore">
       <option name="closed" value="true" />
@@ -151,7 +141,23 @@
       <option name="project" value="LOCAL" />
       <updated>1757773804370</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lab2">
+      <option name="closed" value="true" />
+      <created>1758309947605</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758309947605</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lab3">
+      <option name="closed" value="true" />
+      <created>1758310121230</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758310121230</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,7 +178,8 @@
     <MESSAGE value="1" />
     <MESSAGE value="Create .gitignore" />
     <MESSAGE value="lab2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab2" />
+    <MESSAGE value="lab3" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
