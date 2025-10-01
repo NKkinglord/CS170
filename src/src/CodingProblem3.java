@@ -34,7 +34,7 @@ public class CodingProblem3 {
     }
     public static int computeNonPrimeSum(int num) {
         int sum = 0;
-        for (int i = 0; i < num; i++) {
+        for (int i = 0; i <= num; i++) {
             if (isEven(i) && !isPrime(i)) {
                 sum += i;
             }
