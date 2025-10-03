@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c69e7fe8-b4f5-4bff-a157-49494795938d" name="Changes" comment="lab4">
-      <change afterPath="$PROJECT_DIR$/../src/src/CodingProblem3.java" afterDir="false" />
+    <list default="true" id="c69e7fe8-b4f5-4bff-a157-49494795938d" name="Changes" comment="hw3">
+      <change afterPath="$PROJECT_DIR$/../src/src/Lab5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +38,9 @@
     &quot;accountId&quot;: &quot;fda37846-0094-4192-b313-e8a1c73018c5&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -56,6 +59,7 @@
     "Application.Lab2.executor": "Run",
     "Application.Lab3.executor": "Run",
     "Application.Lab4.executor": "Run",
+    "Application.Lab5.executor": "Run",
     "Application.Unnamed.executor": "Run",
     "Application.java.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
@@ -126,7 +130,8 @@
       <workItem from="1758307987171" duration="2771000" />
       <workItem from="1758912098402" duration="1964000" />
       <workItem from="1759161803818" duration="2284000" />
-      <workItem from="1759281624242" duration="2052000" />
+      <workItem from="1759281624242" duration="2646000" />
+      <workItem from="1759516410004" duration="2910000" />
     </task>
     <task id="LOCAL-00001" summary="Create .gitignore">
       <option name="closed" value="true" />
@@ -168,7 +173,23 @@
       <option name="project" value="LOCAL" />
       <updated>1758913884220</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="hw3">
+      <option name="closed" value="true" />
+      <created>1759283705938</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759283705938</updated>
+    </task>
+    <task id="LOCAL-00007" summary="hw3">
+      <option name="closed" value="true" />
+      <created>1759283828079</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1759283828079</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,7 +212,8 @@
     <MESSAGE value="lab2" />
     <MESSAGE value="lab3" />
     <MESSAGE value="lab4" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab4" />
+    <MESSAGE value="hw3" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
