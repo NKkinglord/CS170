@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c69e7fe8-b4f5-4bff-a157-49494795938d" name="Changes" comment="hw3">
-      <change afterPath="$PROJECT_DIR$/../src/src/Lab5.java" afterDir="false" />
+    <list default="true" id="c69e7fe8-b4f5-4bff-a157-49494795938d" name="Changes" comment="lab5">
+      <change afterPath="$PROJECT_DIR$/../src/src/Lab6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -60,6 +60,7 @@
     "Application.Lab3.executor": "Run",
     "Application.Lab4.executor": "Run",
     "Application.Lab5.executor": "Run",
+    "Application.Lab6.executor": "Run",
     "Application.Unnamed.executor": "Run",
     "Application.java.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
@@ -131,7 +132,10 @@
       <workItem from="1758912098402" duration="1964000" />
       <workItem from="1759161803818" duration="2284000" />
       <workItem from="1759281624242" duration="2646000" />
-      <workItem from="1759516410004" duration="2910000" />
+      <workItem from="1759516410004" duration="3068000" />
+      <workItem from="1759764550078" duration="79000" />
+      <workItem from="1760730231031" duration="2525000" />
+      <workItem from="1760981582070" duration="3633000" />
     </task>
     <task id="LOCAL-00001" summary="Create .gitignore">
       <option name="closed" value="true" />
@@ -189,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759283828079</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="lab5">
+      <option name="closed" value="true" />
+      <created>1759522529686</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1759522529686</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +225,8 @@
     <MESSAGE value="lab3" />
     <MESSAGE value="lab4" />
     <MESSAGE value="hw3" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw3" />
+    <MESSAGE value="lab5" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab5" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
