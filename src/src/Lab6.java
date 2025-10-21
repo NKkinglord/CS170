@@ -4,7 +4,7 @@
 // CONSULTING ANY SOURCES OUTSIDE OF THOSE APPROVED BY THE INSTRUCTOR .
 // Qi Wang
 public class Lab6 {
-    static void countAlphabets(String a){
+    static void countCharacters(String a){
         char ch;
         int alph = 0;
         int nums = 0;
@@ -81,7 +81,7 @@ public class Lab6 {
         return false;
     }
     public static void main(String[] args) {
-        countAlphabets("AaBbCcDdEE1234 223AABc");
+        countCharacters("AaBbCcDdEE1234 223AABc");
         System.out.println(reverseWord( "Hello!"));
         System.out.println(reverseWordinPlace( "This is a reverse test!"));
         System.out.println(searchString( "This is a test to see if the test cases are working. Test testing!","test"));
