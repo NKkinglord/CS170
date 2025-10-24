@@ -47,7 +47,7 @@ public class Lab7 {
         return true;
     }
     static int[] countAlphabets(String s){
-        int count[] = new int[27];
+        int count[] = new int[26];
         s = s.toLowerCase();
         for (int i = 0; i < s.length(); i++) {
             if (Character.isLetter(s.charAt(i))) {
