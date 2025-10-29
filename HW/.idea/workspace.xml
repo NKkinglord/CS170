@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c69e7fe8-b4f5-4bff-a157-49494795938d" name="Changes" comment="lab 7">
-      <change afterPath="$PROJECT_DIR$/../src/src/CodingProblem4_5.java" afterDir="false" />
+    <list default="true" id="c69e7fe8-b4f5-4bff-a157-49494795938d" name="Changes" comment="hw45">
+      <change afterPath="$PROJECT_DIR$/../src/src/ExtraCredit1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +57,7 @@
     "Application.CodingProblem2.executor": "Run",
     "Application.CodingProblem3.executor": "Run",
     "Application.CodingProblem4_5.executor": "Run",
+    "Application.ExtraCredit1.executor": "Run",
     "Application.Lab2.executor": "Run",
     "Application.Lab3.executor": "Run",
     "Application.Lab4.executor": "Run",
@@ -140,7 +141,8 @@
       <workItem from="1760981582070" duration="3815000" />
       <workItem from="1761007901706" duration="1282000" />
       <workItem from="1761332357384" duration="3015000" />
-      <workItem from="1761705757351" duration="662000" />
+      <workItem from="1761705757351" duration="774000" />
+      <workItem from="1761706588539" duration="1037000" />
     </task>
     <task id="LOCAL-00001" summary="Create .gitignore">
       <option name="closed" value="true" />
@@ -262,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761335791794</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="hw45">
+      <option name="closed" value="true" />
+      <created>1761706494616</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1761706494616</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,7 +299,8 @@
     <MESSAGE value="lab5" />
     <MESSAGE value="lab 6" />
     <MESSAGE value="lab 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab 7" />
+    <MESSAGE value="hw45" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw45" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
