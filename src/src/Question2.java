@@ -8,7 +8,6 @@
 // THIS CODE WAS MY OWN WORK , IT WAS WRITTEN WITHOUT
 // CONSULTING ANY SOURCES OUTSIDE OF THOSE APPROVED BY THE INSTRUCTOR .
 // Qi Wang
-import java.util.Arrays;
 public class Question2 {
     static int countPrimes(int numbers[]){
         int count = 0;
