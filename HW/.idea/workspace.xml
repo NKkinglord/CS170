@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c69e7fe8-b4f5-4bff-a157-49494795938d" name="Changes" comment="67">
-      <change afterPath="$PROJECT_DIR$/../src/src/Question2.java" afterDir="false" />
+    <list default="true" id="c69e7fe8-b4f5-4bff-a157-49494795938d" name="Changes" comment="skills2">
+      <change afterPath="$PROJECT_DIR$/../src/src/Lab9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +66,7 @@
     "Application.Lab6.executor": "Run",
     "Application.Lab7.executor": "Run",
     "Application.Lab8.executor": "Run",
+    "Application.Lab9.executor": "Run",
     "Application.Question2.executor": "Run",
     "Application.Unnamed.executor": "Run",
     "Application.java.executor": "Run",
@@ -89,6 +90,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "settings.qodana",
     "vue.rearranger.settings.migration": "true"
   }
@@ -151,7 +153,8 @@
       <workItem from="1762100983111" duration="1223000" />
       <workItem from="1762190343153" duration="53000" />
       <workItem from="1762285952486" duration="1515000" />
-      <workItem from="1762287555719" duration="6135000" />
+      <workItem from="1762287555719" duration="6866000" />
+      <workItem from="1762546346397" duration="1769000" />
     </task>
     <task id="LOCAL-00001" summary="Create .gitignore">
       <option name="closed" value="true" />
@@ -305,7 +308,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762289292639</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="skills2">
+      <option name="closed" value="true" />
+      <created>1762362194049</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1762362194049</updated>
+    </task>
+    <task id="LOCAL-00021" summary="skills2">
+      <option name="closed" value="true" />
+      <created>1762362283114</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1762362283114</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,7 +355,8 @@
     <MESSAGE value="credit" />
     <MESSAGE value="lab8" />
     <MESSAGE value="67" />
-    <option name="LAST_COMMIT_MESSAGE" value="67" />
+    <MESSAGE value="skills2" />
+    <option name="LAST_COMMIT_MESSAGE" value="skills2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
