@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c69e7fe8-b4f5-4bff-a157-49494795938d" name="Changes" comment="skills2">
-      <change afterPath="$PROJECT_DIR$/../src/src/Lab9.java" afterDir="false" />
+    <list default="true" id="c69e7fe8-b4f5-4bff-a157-49494795938d" name="Changes" comment="lab9">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/src/Lab9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/src/Lab9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,49 +52,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CodingProblem2.executor": "Run",
-    "Application.CodingProblem3.executor": "Run",
-    "Application.CodingProblem4_5.executor": "Run",
-    "Application.CodingProblem6_7.executor": "Run",
-    "Application.ExtraCredit1.executor": "Run",
-    "Application.Lab2.executor": "Run",
-    "Application.Lab3.executor": "Run",
-    "Application.Lab4.executor": "Run",
-    "Application.Lab5.executor": "Run",
-    "Application.Lab6.executor": "Run",
-    "Application.Lab7.executor": "Run",
-    "Application.Lab8.executor": "Run",
-    "Application.Lab9.executor": "Run",
-    "Application.Question2.executor": "Run",
-    "Application.Unnamed.executor": "Run",
-    "Application.java.executor": "Run",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JBoss/WildFly Server.Unnamed.executor": "Run",
-    "Java Scratch.lab2.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Remote JVM Debug.Unnamed.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/night/OneDrive/Documents/CS170/HW",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "settings.qodana",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CodingProblem2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CodingProblem3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CodingProblem4_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CodingProblem6_7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExtraCredit1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Application.java.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JBoss/WildFly Server.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Java Scratch.lab2.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Remote JVM Debug.Unnamed.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/night/OneDrive/Documents/CS170/HW&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.qodana&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\night\OneDrive\Documents\CS170\HW" />
@@ -154,7 +154,8 @@
       <workItem from="1762190343153" duration="53000" />
       <workItem from="1762285952486" duration="1515000" />
       <workItem from="1762287555719" duration="6866000" />
-      <workItem from="1762546346397" duration="1769000" />
+      <workItem from="1762546346397" duration="3247000" />
+      <workItem from="1762727710185" duration="660000" />
     </task>
     <task id="LOCAL-00001" summary="Create .gitignore">
       <option name="closed" value="true" />
@@ -324,7 +325,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762362283114</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="lab9">
+      <option name="closed" value="true" />
+      <created>1762548295218</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1762548295218</updated>
+    </task>
+    <task id="LOCAL-00023" summary="lab9">
+      <option name="closed" value="true" />
+      <created>1762728269660</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1762728269660</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,7 +373,8 @@
     <MESSAGE value="lab8" />
     <MESSAGE value="67" />
     <MESSAGE value="skills2" />
-    <option name="LAST_COMMIT_MESSAGE" value="skills2" />
+    <MESSAGE value="lab9" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab9" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
