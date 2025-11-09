@@ -17,6 +17,9 @@ public class CodingProblem6_7 {
         return false;
     }
     static double[] sortNumbers(double numbers[], boolean reverse){
+        if (numbers.length == 0){
+            return null;
+        }
         if (reverse){
             return BubbleSort(numbers);
         } else {
@@ -60,6 +63,9 @@ public class CodingProblem6_7 {
         return arr;
     }
     static String[] sortWords(String words[], boolean reverse){
+        if (words.length == 0){
+            return null;
+        }
         if (reverse){
             return BubbleSort(words);
         } else {
